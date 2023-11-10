@@ -25,7 +25,7 @@ The project includes code for preprocessing the data, training the Naive Bayes m
 ## Visualization
 A sample visualization of the sentiment distribution among movie reviews is included. Here's a snapshot of the code and its output:
 
-![Uploading Code.png…]()
+![Code](https://github.com/Ovais-to/Movie-Review-Sentiment-Analysis/assets/77059967/587070e4-7782-4c12-a54e-d24d04473466)
 
 
 ## Results
