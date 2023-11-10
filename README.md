@@ -25,7 +25,8 @@ The project includes code for preprocessing the data, training the Naive Bayes m
 ## Visualization
 A sample visualization of the sentiment distribution among movie reviews is included. Here's a snapshot of the code and its output:
 
-![Code Snapshot](path-to-your-code-image)
+![Uploading Code.png…]()
+
 
 ## Results
 The performance of the model is quantified using accuracy score, confusion matrix, and classification report, highlighting the effectiveness of the Naive Bayes classifier in sentiment analysis.
